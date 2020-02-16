@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Start With Hugo on Githuh Pages</title>
-      <link>https://hackensaw.com/posts/start-with-hugo-on-gh-pages/</link>
+      <title>Start With Hugo on Github Pages</title>
+      <link>https://hackensaw.com/start-with-hugo-on-gh-pages/</link>
       <pubDate>Sat, 15 Feb 2020 13:43:11 -0500</pubDate>
       
-      <guid>https://hackensaw.com/posts/start-with-hugo-on-gh-pages/</guid>
+      <guid>https://hackensaw.com/start-with-hugo-on-gh-pages/</guid>
       <description>This is a comprehensive guide for creating your first static site using Hugo and hosting it on GitHub pages.
 Creating your site First, make sure you have Hugo installed on your machine.
 Now you can run these commands to make your first site.
